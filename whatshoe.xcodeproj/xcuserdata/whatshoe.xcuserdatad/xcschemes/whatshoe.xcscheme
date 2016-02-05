@@ -17,7 +17,7 @@
                BlueprintIdentifier = "F3FE1B581BDF1966008EB5DA"
                BuildableName = "whatshoe.app"
                BlueprintName = "whatshoe"
-               ReferencedContainer = "container:whatshoe.xcodeproj">
+               ReferencedContainer = "container:&#9;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "F3FE1B581BDF1966008EB5DA"
             BuildableName = "whatshoe.app"
             BlueprintName = "whatshoe"
-            ReferencedContainer = "container:whatshoe.xcodeproj">
+            ReferencedContainer = "container:&#9;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
